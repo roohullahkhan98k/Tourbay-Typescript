@@ -1,0 +1,66 @@
+[
+    {
+      "id": "Pérez Art Museum Miami",
+      "image": "/perez.png",
+      "title": "Pérez Art Museum Miami",
+      "description": "The Pérez Art Museum Miami — officially known as the Jorge M. Pérez Art Museum of Miami and it is very .....",
+      "price": "$50-$200",
+      "duration": "3 days",
+      "location": "Miami"
+    },
+    {
+      "id": "Hard Rock Stadium",
+      "image": "/hardrock.png",
+      "title": "Hard Rock Stadium",
+      "description": "Hard Rock Stadium is a multi-purpose stadium located in Miami Gardens, Florida, a city of flowers is located in the .....",
+      "price": "$70-$250",
+      "duration": "2 days",
+      "location": "Miami"
+    },
+    {
+      "id": "Matheson Hammock",
+      "image": "/metheson.png",
+      "title": "Matheson Hammock",
+      "description": "Matheson Hammock Park is a 630 acres urban park in metropolitan Miami at 9610 Old-fashioned park .....",
+      "price": "$60-$220",
+      "duration": "4 days",
+      "location": "Miami"
+    },
+    {
+      "id": "The Wharf Miami",
+      "image": "/wharf.png",
+      "title": "The Wharf Miami",
+      "description": "An all new outdoor pop-up event space anchored with live music, eats, cocktails and stuff like these .......",
+      "price": "$80-$270",
+      "duration": "5 days",
+      "location": "Miami"
+    },
+    {
+      "id": "Miami Tower",
+      "image": "/tower.png",
+      "title": "Miami Tower",
+      "description": "The Pérez Art Museum Miami — officially known as the Jorge M. Pérez Art Museum of Miami and it is very .....",
+      "price": "$90-$300",
+      "duration": "6 days",
+      "location": "Miami"
+    },
+    {
+      "id": "Skyviews Miami",
+      "image": "/skyviews.png",
+      "title": "Skyviews Miami",
+      "description": "The Pérez Art Museum Miami — officially known as the Jorge M. Pérez Art Museum of Miami and it is very .....",
+      "price": "$100-$320",
+      "duration": "7 days",
+      "location": "Miami"
+    },
+    {
+        "id": "skyviews dallas",
+        "image": "/skyviews.png",
+        "title": "Skyviews Miami",
+        "description": "The Pérez Art Museum Miami — officially known as the Jorge M. Pérez Art Museum of Miami and it is very .....",
+        "price": "$100-$320",
+        "duration": "7 days",
+        "location": "Dallas"
+      }
+  ]
+  
